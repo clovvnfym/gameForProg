@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Snake/Snake.csproj" />
+  <Project Path="SnakeTests/SnakeTests.csproj">
+    <Build Solution="Debug|*" Project="false" />
+  </Project>
+</Solution>
